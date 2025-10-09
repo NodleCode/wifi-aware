@@ -1,6 +1,6 @@
 # Wi-Fi Aware Mesh for bitchat (Android)
 
-Wi-Fi Aware (NAN) transport for Bitchat that aligns with the latest `BluetoothMeshService` and iOS protocol. Tested and verified working with minimal integration changes. 
+Wi-Fi Aware (NAN) transport for bitchat that aligns with the latest `BluetoothMeshService` and iOS protocol. Tested and verified working with minimal integration changes. 
 Supports **signed TLV announces**, **Noise handshake / NOISE_ENCRYPTED payloads**, and **Gossip sync**. 
 
 ---
